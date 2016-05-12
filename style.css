@@ -1,0 +1,21 @@
+html, 
+body {
+	height: 100%;
+}
+
+#map-container {
+	height: 100%;
+}
+
+
+header {
+	padding: 20px 10px;	
+}
+
+#input {
+	padding: 0 0 20px 0;
+}
+
+.list-group-item {
+	margin: 2px 0;
+}
